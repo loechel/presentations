@@ -47,6 +47,9 @@ coverage.xml
 # Django stuff:
 *.log
 
+# SCSS 
+.sass-cache
+
 # Sphinx documentation
 docs/_build/
 
@@ -63,3 +66,4 @@ output/
 .sass-cache/
 .ipynb_checkpoints/
 .PowerFolder/
+
